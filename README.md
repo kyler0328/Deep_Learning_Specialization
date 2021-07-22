@@ -1,8 +1,8 @@
 # Deep_Learning_Specialization
 
-This is my personal projects for the course. This series of online courses is offered by deeplearning.ai. Thanks to Prof. Andrew Ng and his colleagues for these great 
+This is my personal projects for the specialization. This series of online courses is offered by deeplearning.ai. Thanks to Prof. Andrew Ng and his colleagues for the great courses.
 
-
+## Programming Assignment
 * [Courese 1. Neural Network and Deep Learning](https://github.com/kyler0328/Deep_Learning_Specialization/tree/main/Neural%20Networks%20and%20Deep%20Learning)
   * Week 2 - Logistic Regression with a Neural Network mindset
   * Week 3 - Planar data classification with one hidden layer
@@ -14,7 +14,7 @@ This is my personal projects for the course. This series of online courses is of
   * Week 1 - Gradient Checking
   * Week 2 - Optimization Methods
   * Week 3 - TensorFlow Tutorial
-* [Course 3. Structuring Machine Learning Project]
+* Course 3. Structuring Machine Learning Project
   * There is no Programming Assignment for this course
 * [Course 4. Convolutional Neural Networks](https://github.com/kyler0328/Deep_Learning_Specialization/tree/main/Convolutional%20Neural%20Networks)
   * Week 1 - Convolutional Model: Step by Step
